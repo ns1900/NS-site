@@ -1,0 +1,134 @@
+@charset "utf-8";
+#top {
+	margin-bottom: 7em;
+	margin-top: 20px;
+}
+
+
+#top #nav {
+	float: right;
+	margin-right: -15px;
+
+
+}
+#top #title #ns {
+	margin-top: -16px;
+
+
+
+}
+
+#top #title #avatar-md {
+	padding-left: 0px;
+}
+#nav #bs-example-navbar-collapse-1 #navbar {
+	float: right;
+	font-family: Arial, HelveticaNeue, "Helvetica Neue", sans-serif;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+#top #introduction {
+	/* [disabled]padding-left: 15px; */
+	/* [disabled]padding-right: 15px; */
+	/* [disabled]margin-left: -15px; */
+	/* [disabled]margin-right: -15px; */
+}
+#top #introduction #en {
+	color: #6f6f6f;
+	word-spacing: 0.1em;
+	font-family: Arial, HelveticaNeue, "Helvetica Neue", sans-serif;
+}
+#top #introduction #zh {
+	color: #6f6f6f;
+	font-family: "方正兰亭黑简体", "微软雅黑", sans-serif;
+	letter-spacing: 0.05em;
+}
+#top #introduction .btn {
+	float: right;
+}
+.btn ul .en-btn {
+	float: left;
+	margin-right: 2em;
+
+}
+.btn ul .zh-btn {
+	float: left;
+
+}
+.btn ul li a {
+	color: #727272;
+	text-decoration: none;
+}
+
+
+
+
+ul li
+{
+list-style-type:none;
+}
+
+
+
+
+
+
+
+
+#body #showcase {
+	margin-bottom: 3em;
+}
+#body #footer {
+	color: #6a6a6a;
+	font-family: Arial, HelveticaNeue, "Helvetica Neue", sans-serif;
+}
+
+#bs-example-navbar-collapse-1 #navbar #blog {
+	margin-right: 2em;
+}
+#bs-example-navbar-collapse-1 #navbar #blog:hover {
+	background-color: #FF6E00;
+	color: #FFFFFF;
+}
+
+
+
+#bs-example-navbar-collapse-1 #navbar #behance {
+	margin-right: 2em;
+}
+#bs-example-navbar-collapse-1 #navbar #behance:hover {
+	background-image: -webkit-linear-gradient(270deg,rgba(104,162,252,1.00) 0%,rgba(0,113,251,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(104,162,252,1.00) 0%,rgba(0,113,251,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(104,162,252,1.00) 0%,rgba(0,113,251,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(104,162,252,1.00) 0%,rgba(0,113,251,1.00) 100%);
+}
+
+#bs-example-navbar-collapse-1 #navbar #vimeo {
+	margin-right: 2em;
+}
+#bs-example-navbar-collapse-1 #navbar #vimeo:hover {
+	background-color: #00C0FD;
+}
+
+
+#bs-example-navbar-collapse-1 #navbar #about {
+	margin-right: -6px;
+
+}
+#bs-example-navbar-collapse-1 #navbar #about:hover {
+	background-color: #F336FF;
+}
+#body #showcase .work {
+	margin-bottom: 4em;
+}
+
+
+.work .thumbnail p   {
+	color: #6A6A6A;
+	font-family: Arial, HelveticaNeue, "Helvetica Neue", sans-serif;
+	margin-top: 2em;
+}
+.work  .thumbnai h5   {
+	color: #6A6A6A;
+	font-family: Arial, HelveticaNeue, "Helvetica Neue", sans-serif;
+}
